@@ -1,0 +1,14 @@
+This is the code snippet for important reusable code. 
+
+
+// .prettierrc.json
+{
+  "printWidth": 80,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": false,
+  "singleQuote": true,
+  "bracketSpacing": true,
+  "jsxSingleQuote": true,
+  "trailingComma": "es5"
+}
